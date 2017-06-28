@@ -138,4 +138,4 @@ visit)
 * Other CS Ed related awesome sites
 - [[https://github.com/sindresorhus/awesome][Awesome]] - a list of awesome lists
 - [[https://github.com/Macmod/awesome-cs][Awesome CS]] - many Awesome CS topic and language links
-
+- [[http://thefoos.com/][codeSpark Academy]] - Intro to CS app for elementary school kids. Covers basic CS concepts like sequencting, loops, events, and conditional statements
